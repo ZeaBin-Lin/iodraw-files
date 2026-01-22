@@ -566,11 +566,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qxn_RqVnfwrwsOmbJQmc-434" value="1:N" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qxn_RqVnfwrwsOmbJQmc-371" target="qxn_RqVnfwrwsOmbJQmc-406">
-          <mxGeometry x="0.2011" y="39" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="530" />
+              <mxPoint x="540" y="506" />
             </Array>
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
