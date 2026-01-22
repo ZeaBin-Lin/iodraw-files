@@ -3185,7 +3185,7 @@
             <mxRectangle width="22" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcsVw5Cv5cXxVjUG69ao-54" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;" edge="1" parent="1">
+        <mxCell id="xcsVw5Cv5cXxVjUG69ao-54" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcsVw5Cv5cXxVjUG69ao-22" target="qxn_RqVnfwrwsOmbJQmc-1289">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="180" y="1580" as="sourcePoint" />
             <mxPoint x="280" y="1480" as="targetPoint" />
