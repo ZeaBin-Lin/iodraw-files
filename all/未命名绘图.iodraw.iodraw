@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qxn_RqVnfwrwsOmbJQmc-367" value="t_approval_step" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-329">
-          <mxGeometry y="322" width="154" height="201" as="geometry" />
+          <mxGeometry x="228" width="154" height="201" as="geometry" />
         </mxCell>
         <mxCell id="qxn_RqVnfwrwsOmbJQmc-368" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-367">
           <mxGeometry y="25" width="154" height="22" as="geometry" />
