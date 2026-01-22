@@ -98,7 +98,7 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxn_RqVnfwrwsOmbJQmc-329" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="390" width="154" height="824" as="geometry" />
+          <mxGeometry x="120" y="470" width="154" height="824" as="geometry" />
         </mxCell>
         <mxCell id="qxn_RqVnfwrwsOmbJQmc-330" value="t_approval" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-329">
           <mxGeometry width="154" height="223" as="geometry" />
