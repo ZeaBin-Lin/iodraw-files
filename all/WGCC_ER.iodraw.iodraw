@@ -1888,7 +1888,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qxn_RqVnfwrwsOmbJQmc-1457" value="t_wx_author" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2280" width="160" height="289" as="geometry" />
+          <mxGeometry x="-360" y="1310" width="160" height="289" as="geometry" />
         </mxCell>
         <mxCell id="qxn_RqVnfwrwsOmbJQmc-1458" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-1457">
           <mxGeometry y="25" width="160" height="22" as="geometry" />
@@ -2104,6 +2104,12 @@
         <mxCell id="qxn_RqVnfwrwsOmbJQmc-1505" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-1502">
           <mxGeometry x="138" width="22" height="22" as="geometry">
             <mxRectangle width="22" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qxn_RqVnfwrwsOmbJQmc-1506" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="40" y="1650" as="sourcePoint" />
+            <mxPoint x="140" y="1550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
