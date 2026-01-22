@@ -1177,7 +1177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qxn_RqVnfwrwsOmbJQmc-1043" value="t_individual_supplier" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="2340" width="319" height="1063" as="geometry" />
+          <mxGeometry x="120" y="2250" width="319" height="1063" as="geometry" />
         </mxCell>
         <mxCell id="qxn_RqVnfwrwsOmbJQmc-1044" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-1043">
           <mxGeometry y="25" width="319" height="22" as="geometry" />
@@ -1266,7 +1266,7 @@
             <mxRectangle width="22" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxn_RqVnfwrwsOmbJQmc-1063" value="证件号码" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-1059">
+        <mxCell id="qxn_RqVnfwrwsOmbJQmc-1063" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-1059">
           <mxGeometry x="277" width="42" height="22" as="geometry">
             <mxRectangle width="42" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -2140,7 +2140,7 @@
             <mxRectangle width="22" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxn_RqVnfwrwsOmbJQmc-1253" value="供应商ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-1249">
+        <mxCell id="qxn_RqVnfwrwsOmbJQmc-1253" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-1249">
           <mxGeometry x="277" width="42" height="22" as="geometry">
             <mxRectangle width="42" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -2255,7 +2255,7 @@
             <mxRectangle width="22" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxn_RqVnfwrwsOmbJQmc-1278" value="电子签证件类型" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-1274">
+        <mxCell id="qxn_RqVnfwrwsOmbJQmc-1278" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="qxn_RqVnfwrwsOmbJQmc-1274">
           <mxGeometry x="277" width="42" height="22" as="geometry">
             <mxRectangle width="42" height="22" as="alternateBounds" />
           </mxGeometry>
