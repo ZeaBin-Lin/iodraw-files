@@ -564,11 +564,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxn_RqVnfwrwsOmbJQmc-433" value="1:N" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.49;exitY=1;entryX=0.49;entryY=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+        <mxCell id="qxn_RqVnfwrwsOmbJQmc-883" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qxn_RqVnfwrwsOmbJQmc-329" source="qxn_RqVnfwrwsOmbJQmc-334">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="120.00000000000004" y="753" as="sourcePoint" />
-            <mxPoint x="348.00000000000006" y="530" as="targetPoint" />
+            <mxPoint x="210" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
